@@ -104,4 +104,11 @@ To provide a centralized, interactive view of Olympic data that enables comparis
 • Provides data-driven insights useful for analysts, media coverage, and audience engagement. 
 
 6. Screenshots/Demos
+   Show what the Dashboard looks like. -
+   [Home of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Home_Dashboard.png)
+   [Overview of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Overview_Dashboard.png)
+   [Athelete of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Athelete_Dashboard.png)
+   [Country of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Country_Dashboard.png)
+  [Historical of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Historical_Dashboard.png)
+   
    
