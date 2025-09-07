@@ -105,10 +105,10 @@ To provide a centralized, interactive view of Olympic data that enables comparis
 
 6. Screenshots/Demos
    Show what the Dashboard looks like. -
-   [Home of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Home_Dashboard.png)
-   [Overview of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Overview_Dashboard.png)
-   [Athelete of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Athelete_Dashboard.png)
-   [Country of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Country_Dashboard.png)
-  [Historical of the Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Historical_Dashboard.png)
+   [Home_Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Home_Dashboard.png)
+   [Overview_Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Overview_Dashboard.png)
+   [Athelete_Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Athelete_Dashboard.png)
+   [Country_Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Country_Dashboard.png)
+  [Historical_Dashboard](https://github.com/Suchandrapalkundu/Paris-Olympic-2024-Dashboard/blob/main/Historical_Dashboard.png)
    
    
